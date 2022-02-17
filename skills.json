@@ -1,0 +1,12 @@
+{
+	"theory":"SDLC"
+	"HTTP":"Structure"
+	"API_test":"Postman"
+	"Logs":"Server logs"
+	"Dev_tools":true
+	"cmd_line":"Gitbash"
+	"Rel_DB":"SQL"
+	"Loadtest":"Jmeter"
+	"Nonrel_DB":"Redis"
+	"Sniffing":"Charles"
+}
