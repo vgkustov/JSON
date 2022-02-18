@@ -33,7 +33,8 @@
 
 8. Отправить изменения на внешний репозиторий.
 
-> git commit -am "пояснение", git push
+> git commit -am "пояснение"  
+> git push
 
 9. Создать файл preferences.json
 
